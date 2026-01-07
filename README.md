@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+    <meta charset="UTF-8">
+    <title>Computer - Laboratory in ITCOM</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Arial, sans-serif;
+            background: linear-gradient(to right, #e3f2fd, #fce4ec);
+            line-height: 1.7;
+        }
+
+        header {
+            background: linear-gradient(to right, #0d47a1, #1565c0);
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 50px;
+        }
+
+        header p {
+            font-size: 28px;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        section {
+            background-color: white;
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #0d47a1;
+            border-left: 6px solid #0d47a1;
+            padding-left: 10px;
+        }
+
+        ul, ol {
+            margin-left: 25px;
+        }
+
+        .highlight {
+            background-color: #e3f2fd;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 10px;
+        }
+
+        footer {
+            background-color: #0d47a1;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+
+        footer p {
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>All about of Computer</h1>
+    <p>Understanding Computers and Their Impact and
+
+Computers: Components and Functions</p>
+</header>
+
+<div class="container">
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        A computer is an electronic device that accepts raw data as input,
+        processes it according to a set of instructions called programs,
+        and produces meaningful information as output. In today’s modern world,
+        computers play a very important role in our daily life.
+    </p>
+    <p>
+        Computers work with great speed and accuracy. They can store a large
+        amount of information and retrieve it whenever needed.
+    </p>
+</section>
+
+<section>
+    <h2>History of Computer</h2>
+    <p>
+        The history of computers began with simple calculating devices such as
+        the abacus. Early computers were very large in size and used vacuum tubes.
+        These computers consumed a lot of electricity and were very expensive.
+    </p>
+    <p>
+        With the invention of transistors, integrated circuits, and microprocessors,
+        computers became smaller, faster, cheaper, and more powerful. Today,
+        computers are portable and available to almost everyone.
+    </p>
+</section>
+
+<section>
+    <h2>Types of Computers</h2>
+    <p>
+        Computers can be classified into different types based on size and usage.
+    </p>
+    <ul>
+        <li><strong>Desktop Computer:</strong> Used at homes and offices.</li>
+        <li><strong>Laptop:</strong> Portable computer used for work and study.</li>
+        <li><strong>Tablet:</strong> Touch-based computer device.</li>
+        <li><strong>Smartphone:</strong> Small computer used for communication.</li>
+        <li><strong>Supercomputer:</strong> Used for scientific research.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Main Parts of a Computer</h2>
+    <div class="highlight">
+        <ol>
+            <li><strong>Monitor:</strong> Displays information and output.</li>
+            <li><strong>CPU:</strong> Known as the brain of the computer.</li>
+            <li><strong>Keyboard:</strong> Used to enter text and commands.</li>
+            <li><strong>Mouse:</strong> Used to select and move objects.</li>
+        </ol>
+    </div>
+</section>
+
+<section>
+    <h2>Input Devices</h2>
+    <p>
+        Input devices help us enter data and instructions into the computer.
+        Without input devices, a computer cannot perform any task.
+    </p>
+    <ul>
+        <li>Keyboard</li>
+        <li>Mouse</li>
+        <li>Scanner</li>
+        <li>Microphone</li>
+        <li>Webcam</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Output Devices</h2>
+    <p>
+        Output devices display the result of processed data in a form that we
+        can understand.
+    </p>
+    <ul>
+        <li>Monitor</li>
+        <li>Printer</li>
+        <li>Speakers</li>
+        <li>Projector</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Uses of Computer</h2>
+    <p>
+        Computers are used in almost every field of life.
+    </p>
+    <ul>
+        <li><strong>Education:</strong> Online classes and research</li>
+        <li><strong>Business:</strong> Accounting and management</li>
+        <li><strong>Healthcare:</strong> Medical reports and diagnosis</li>
+        <li><strong>Communication:</strong> Email and video calls</li>
+        <li><strong>Entertainment:</strong> Games, movies, and music</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Advantages of Computer</h2>
+    <ul>
+        <li>Very fast and accurate</li>
+        <li>Large storage capacity</li>
+        <li>Saves time and effort</li>
+        <li>Works continuously without tiredness</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Disadvantages of Computer</h2>
+    <ul>
+        <li>Health problems due to long usage</li>
+        <li>Cyber crimes and data theft</li>
+        <li>Over-dependence on machines</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Conclusion</h2>
+    <p>
+        The computer is one of the greatest inventions of modern technology.
+        It has made life easier, faster, and more comfortable. However,
+        computers should be used wisely and responsibly for the benefit
+        of society.
+    </p>
+</section>
+
+</div>
+
+<footer>
+    <p>Group Members:</p>
+    <p>•John lester Franciso<p>
+    <p>•John Andrei Dimalaluan<p><p>•John Ivan Cadiao<p><p>•Ferdinand Garcia<p><p>•Gleen John Padroncillo<p>
+    
+</footer>
+
+</body>
+</html>
